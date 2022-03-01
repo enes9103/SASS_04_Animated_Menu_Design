@@ -1,0 +1,18 @@
+.content {
+    max-width: 1000px;
+    margin: 20px auto;
+    img {
+        max-width: 100%;
+    }
+    h1{
+        margin: 0;
+    }
+    small {
+        color: #555;
+        font-style: italic;
+    }
+    p {
+        color: $bgColor;
+        line-height: 1.5;
+    }
+}
